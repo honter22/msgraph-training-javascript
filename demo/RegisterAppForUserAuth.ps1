@@ -4,7 +4,7 @@
 # <ScriptBody>
 param(
   [Parameter(Mandatory=$true,
-  HelpMessage="The friendly name of the app registration")]
+  HelpMessage="Graph JavaScript quick start")]
   [String]
   $AppName,
 
